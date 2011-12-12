@@ -1,0 +1,4 @@
+[Project]
+Name=autorepair
+Manager=KDevGenericManager
+VersionControl=kdevgit
